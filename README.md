@@ -1,5 +1,5 @@
 # Intro-ReactNative-App
-A simple app from my class on introduction to React Native
+A simple app made with React Native
 
 
 If you download this repo, please run 
